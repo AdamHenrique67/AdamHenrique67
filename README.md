@@ -20,3 +20,5 @@
   <img align= "center" alt="NodeJs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div><br/>
 Apaixonado por tecnologias
+
+![snake gif](https://github.com/AdamHenrique67/AdamHenrique67/blob/output/github-contribution-grid-snake.svg)
