@@ -14,5 +14,9 @@
   <img align= "center" alt="PostGreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div><br/>
 
-Apaixonado por tecnologias
+### Tecnologia que estou estudando no momento
 
+<div style="display: inline_block"><br/>
+  <img align= "center" alt="NodeJs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</div><br/>
+Apaixonado por tecnologias
